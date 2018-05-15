@@ -1,0 +1,37 @@
+#dateTime{
+    width: 100px
+}
+.container {
+    margin-top: 20px;
+  }
+  .page {
+    display: none;
+  }
+  .page-active {
+    display: block;
+  }
+/*#dateTimeInput{
+    width: 100 px;
+    float:left;
+}
+
+#cityInput{
+    width: 100 px;
+    float:left;
+}
+#stateInput{
+    width: 100 px;
+    float:left;
+}
+#countryInput{
+    width: 100 px;
+    float:left;
+}
+#shapeInput{
+    width: 100 px;
+    float:left;
+}
+#durationInput{
+    width: 100 px;
+    float:left;
+}*/
